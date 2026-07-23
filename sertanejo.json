@@ -3,12 +3,16 @@
   {"id":2,"artist":"Cleber Cauan","title":"I Love You Baby Cleber Cauan Resenha na Fazenda","genero":"SERTANEJO","src":"Cleber-Cauan-Resenha-na-Fazenda.mp3"},
   {"id":3,"artist":"Diego Victor Hugo","title":"Desbloqueado -","genero":"SERTANEJO","src":"Diego-Victor Hugo-Desbloqueado.mp3"},
   {"id":4,"artist":"Eduardo Costa","title":"AGUENTA CORAÇÃO Eduardo Costa e ForaDaLei","genero":"SERTANEJO","src":"Eduardo-cora.mp3"},
-  {"id":5,"artist":"Gian e Giovani","title":"Favo de Mel - DVD Planeta Sonho - GianeGiovani feat brunoemarrone","genero":"SERTANEJO","src":"Giane-Giovani.mp3"},
-  {"id":6,"artist":"Henrique e Juliano","title":"Henrique e Juliano - TRÊS CORAÇÕES - DVD Menos é Mais - IG henriqueejuliano","genero":"SERTANEJO","src":"Henrique-e-Juliano-tres.mp3"},
+
+  
+  {"id":5,"artist":"Gian e Giovani","title":"Favo de Mel Planeta Sonho - GianeGiovani","genero":"SERTANEJO","src":"Giane-Giovani.mp3"},
+  {"id":6,"artist":"Henrique e Juliano","title":"tres cora","genero":"SERTANEJO","src":"Henrique-e-Juliano-tres.mp3"},
   {"id":7,"artist":"João Neto e Frederico","title":"João Neto e Frederico Panda Mariana Fagundes - Toca Aquela Desce Mais Uma","genero":"SERTANEJO","src":"João-Neto-e-Frederico.mp3"},
   {"id":8,"artist":"Guilherme e Benuto","title":"Guilherme e Benuto - A Lua Que Eu Te Dei Quando A Chuva Passar GeB In Casa","genero":"SERTANEJO","src":"marcos-a-lua-que-te-dei.mp3"},
   {"id":9,"artist":"Marília Mendonça","title":"Marília Mendonça - GRAVETO Todos Os Cantos","genero":"SERTANEJO","src":"marilia-Graveto.mp3"},
   {"id":10,"artist":"Hugo Guilherme","title":"Vazou Na Braquiara -","genero":"SERTANEJO","src":"Vazou-na-Braquiara.mp3"},
+
+  
   {"id":11,"artist":"Zé Neto e Cristiano","title":"Zé Neto e Cristiano - STATUS QUE EU NÃO QUERIA - EsqueceOMundoLaFora","genero":"SERTANEJO","src":"Ze-Neto-e-Cristiano-status.mp3"},
   {"id":12,"artist":"Tubarões","title":"Diego-e-Victor-Hugo","genero":"SERTANEJO","src":"Diego-e-Victor-Hugo-Tubarões.m4a"},
   {"id":13,"artist":"Era","title":"Marcos- -Belutti-Eu","genero":"SERTANEJO","src":"Marcos-&-Belutti-Eu-Era.m4a"},
@@ -20,6 +24,8 @@
   {"id":19,"artist":"Bruno Marrone","title":"Surto De Amor","genero":"SERTANEJO","src":"Bruno_Marrone_Jorge_Mateus_Surto_De_Amor.m4a"},
   {"id":20,"artist":"Bruno Marrone","title":"Ligação Urbana","genero":"SERTANEJO","src":"Bruno_Marrone_Liga_o_Urbana.m4a"},
   {"id":21,"artist":"Bruno Marrone","title":"Surto De Amor","genero":"SERTANEJO","src":"Bruno-surto.m4a"},
+
+  
   {"id":22,"artist":"Rafael Quadros","title":"Sou Eu Cheiro De Shampoo","genero":"SERTANEJO","src":"Cheiro_De_Shampoo.m4a"},
   {"id":23,"artist":"Sinônimos Part Zé Ramalho","title":"Chitãozinho Xororó","genero":"SERTANEJO","src":"Chit_ozinho_Xoror_Sinonimos.m4a"},
   {"id":24,"artist":"Cleiton Camargo","title":"Na Hora De Amar","genero":"SERTANEJO","src":"Cleiton_e_Camargo_Na_Hora_De_Amar.m4a"},
@@ -39,6 +45,8 @@
   {"id":38,"artist":"Gusttavo Lima","title":"Bloqueado","genero":"SERTANEJO","src":"Gusttavo_Lima_Bloqueado.m4a"},
   {"id":39,"artist":"Valeria-Barros_Edy-Britto-e-Samuel","title":"Nada-Mudou","genero":"SERTANEJO","src":"Valeria-Barros_Edy-Britto-e-Samuel-Nada-Mudou.mp3"},
   {"id":40,"artist":"Dança Comigo Embaixador Anos","title":"Gusttavo Lima","genero":"SERTANEJO","src":"Gusttavo_Lima_Dan_a_Comigo.m4a"},
+
+  
   {"id":41,"artist":"DVD O Embaixador In Cariri","title":"Gusttavo Lima Part Fagner Romance No Deserto","genero":"SERTANEJO","src":"Gusttavo_Lima_Fagner_Romance.m4a"},
   {"id":42,"artist":"Ficha Limpa - Falando de Amor","title":"Gusttavo Lima","genero":"SERTANEJO","src":"Gusttavo_Lima_Ficha_Limpa.m4a"},
   {"id":43,"artist":"Perrengue - DVD O Embaixador In Cariri","title":"Gusttavo Lima","genero":"SERTANEJO","src":"Gusttavo_Lima_Perrengue.m4a"},
@@ -58,6 +66,9 @@
   {"id":57,"artist":"Luan Santana","title":"Memo ria Cac ador de Corac o es","genero":"SERTANEJO","src":"Luan-Santana-memorias.m4a"},
   {"id":58,"artist":"Não Aprendi Dizer Adeus","title":"Marília Mendonça Maiara e Maraisa","genero":"SERTANEJO","src":"Maralia_Mendon_a_Maiara.m4a"},
   {"id":59,"artist":"BIN","title":"Graveto","genero":"SERTANEJO","src":"Marilia_Mendon_a_Graveto.m4a"},
+
+
+  
   {"id":60,"artist":"Paulino Estrelinha","title":"Di Paullo","genero":"SERTANEJO","src":"Di_Paullo_e_Paulino_feat_Mar_lia_Mendon_a_Estrelinha_muzzik.m4a"},
   {"id":61,"artist":"Não Aprendi Dizer Adeus","title":"Marília Mendonça Maiara e Maraisa","genero":"SERTANEJO","src":"Marilia_Men-nao-apren.m4a"},
   {"id":62,"artist":"Michel Teló","title":"Meu Erro O Sol - Sertanejinho do Teló","genero":"SERTANEJO","src":"Michel_Tel_Meu_Erro_O_Sol.m4a"},
@@ -73,9 +84,11 @@
   {"id":72,"artist":"Thayná Bitencourt","title":"Os Amantes Porque","genero":"SERTANEJO","src":"TaynaOs_Amantes.m4a"},
   {"id":73,"artist":"Assino com X part Hugo e Guilherme Maiara e Murilo Huff ParadaObrigatória","title":"VH e Alexandre","genero":"SERTANEJO","src":"VH_e_Alexandre_Assino_com_X-.m4a"},
   {"id":74,"artist":"Na Hora de Amar","title":"Gusttavo Lima","genero":"SERTANEJO","src":"Gusttavo_Lima_-_Na_Hora_de_Amar.m4a"},
+
+  
   {"id":75,"artist":"Estrada do Amor part Rafa e Júnior Ouve Aí","title":"VH e Alexandre","genero":"SERTANEJO","src":"VH_e_Alexandre_Estrada.m4a"},
   {"id":76,"artist":"Não Se Vá Seresteiro da Noite ParadaObrigatória","title":"VH e Alexandre","genero":"SERTANEJO","src":"VH_e_Alexandre_NOA-SE-VA.m4a"},
-  {"id":77,"artist":"Peão Apaixonado Saudade Pulou no Peito Mexe que é Bom ParadaObrigatória","title":"VH e Alexandre","genero":"SERTANEJO","src":"VH_e_Alexandre_Pe_o_Apaixonado.m4a"},
+  {"id":77,"artist":"VH e Alexandre","title":"pe apaixonado","genero":"SERTANEJO","src":"VH_e_Alexandre_Pe_o_Apaixonado.m4a"},
   {"id":78,"artist":"Farra Pinga e Foguete Balada Louca Ouve Aí","title":"VH e Alexandre","genero":"SERTANEJO","src":"Vh-ALe-farra.m4a"},
   {"id":79,"artist":"Victor Leo","title":"Tem Que Ser Você","genero":"SERTANEJO","src":"Victor_Leo_Tem_Que_Ser_Voc.m4a"},
   {"id":80,"artist":"Zé Neto Cristiano","title":"Barulho do Foguete - Escolhas","genero":"SERTANEJO","src":"Z_Neto_e_Cristiano_Barulho_do_Foguete_Escolhas.m4a"},
@@ -84,6 +97,9 @@
   {"id":83,"artist":"anacastela zefelipe","title":"Eu Só Quero Você","genero":"SERTANEJO","src":"anacastela-zefelipe-eu-so-quro-vc.m4a"},
   {"id":84,"artist":"Maycon e Vinicius","title":"Maycon e Vinicius - Me Perdoe Amor DVD Social","genero":"SERTANEJO","src":"Maycon-e-Vinicius-Me-Perdoe-Amor-Social.mp3"},
   {"id":85,"artist":"Mayara & Maraysa","title":"Medo Bobo","genero":"SERTANEJO","src":"Medo-Bobo.m4a"},
+
+
+  
   {"id":86,"artist":"Mariana Fagundes","title":"Peao-Todo-Tatuado-Jeninho","genero":"SERTANEJO","src":"Peao-Todo-Tatuado-Jeninho-Mariana-Fagundes.m4a"},
   {"id":87,"artist":"Giovana Costa","title":"Giovana Costa","genero":"SERTANEJO","src":"Crises_de_Amor_Giovana_Costa_SERTA.m4a"},
   {"id":88,"artist":"Edson Hudson","title":"Edson HudsonBica D A gua - Modão é Sempre Modão","genero":"SERTANEJO","src":"Edson_Hudson_Bica_D_A_gua_Mod_o_Sempre_Mod_o_S.m4a"},
@@ -106,6 +122,9 @@
   {"id":105,"artist":"Ivis-e-Carraro","title":"Transas","genero":"MPB","src":"Ivis-e-Carraro_Transas.mp3"},
   {"id":106,"artist":"Matheus-e-Kuan","title":"Quarta Cadeira","genero":"MPB","src":"Matheus-e-Kuan_Quarta_Cadeira.m4a"},
   {"id":107,"artist":"Panda","title":"Corpo-Nu","genero":"MPB","src":"Panda_Corpo-Nu.m4a"},
+
+
+  
   {"id":108,"artist":"Tô Mal","title":"Tô Mal","genero":"MPB","src":"Rio-To-mal-rio.m4a"},
   {"id":109,"artist":"Anderson Nogueira","title":"Anderson Nogueira FUI DANDO PORRADA Em Goiânia","genero":"SERTANEJO","src":"Anderson-Nogueira-FUIDANDOPORRADA.mp3"},
 {"id":110,"artist":"Resenha do Cabral","title":"Luz da minha vida Castelo de amor Resenha do Cabral","genero":"SERTANEJO","src":"CastelodeamorResenha-do-Cabral-Musica.mp3"},
@@ -114,6 +133,8 @@
 {"id":113,"artist":"Gilberto e Gilmar","title":"Gilberto e Gilmar - Último Adeus","genero":"SERTANEJO","src":"Gilberto-e-Gilmar-UltimoAdeusAoVivo.mp3"},
 {"id":114,"artist":"João Mineiro Marciano - Topic","title":"Ainda Ontem Chorei De Saudade","genero":"SERTANEJO","src":"J-Mineiro-e-MarcinoAindaOntemChoreiDeSaudade.mp3"},
 {"id":115,"artist":"Milionário José Rico - Topic","title":"Decida","genero":"SERTANEJO","src":"Milionario-ze-Rico-Decida.mp3"},
+
+  
 {"id":116,"artist":"Gian e Giovani","title":"Não Vivo Sem Você - DVD Planeta Sonho - GianeGiovani","genero":"SERTANEJO","src":"NVivoSemVcSonhoGiane-Giovani-Musica.mp3"},
 {"id":117,"artist":"Tom e Leo","title":"Peão Apaixonado Na Sola da Bota Tom Léo","genero":"SERTANEJO","src":"NaSoladaBotaTom-Leo.mp3"},
 {"id":118,"artist":"Canal StudioBar","title":"No Mesmo Lugar - Studio Bar brunoemarrone fredefabricio","genero":"SERTANEJO","src":"NoMesmoLugarStudioBarbruno-e-marrone-fred-fabricio.mp3"},
