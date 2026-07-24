@@ -1,6 +1,5 @@
 [
   {"id":1,"artist":"Lauana Prado","title":"Andorinha Machucada Você","genero":"SERTANEJO","src":"Andorinha_Machucada-launa.m4a"},
-  {"id":2,"artist":"Cleber Cauan","title":"I Love You Baby Cleber Cauan Resenha na Fazenda","genero":"SERTANEJO","src":"Cleber-Cauan-Resenha-na-Fazenda.mp3"},
   {"id":3,"artist":"Diego Victor Hugo","title":"Desbloqueado -","genero":"SERTANEJO","src":"Diego-Victor Hugo-Desbloqueado.mp3"},
   {"id":4,"artist":"Eduardo Costa","title":"AGUENTA CORAÇÃO ","genero":"SERTANEJO","src":"Eduardo-cora.mp3"},
 
@@ -47,10 +46,10 @@
   {"id":40,"artist":"Dança Comigo Embaixador Anos","title":"Gusttavo Lima","genero":"SERTANEJO","src":"Gusttavo_Lima_Dan_a_Comigo.m4a"},
 
   
-  {"id":41,"artist":"DVD O Embaixador In Cariri","title":"Gusttavo Lima Part Fagner Romance No Deserto","genero":"SERTANEJO","src":"Gusttavo_Lima_Fagner_Romance.m4a"},
+ 
   {"id":42,"artist":"Ficha Limpa - Falando de Amor","title":"Gusttavo Lima","genero":"SERTANEJO","src":"Gusttavo_Lima_Ficha_Limpa.m4a"},
-  {"id":43,"artist":"Perrengue - DVD O Embaixador In Cariri","title":"Gusttavo Lima","genero":"SERTANEJO","src":"Gusttavo_Lima_Perrengue.m4a"},
-  {"id":44,"artist":"Retrovisor DVD","title":"Gusttavo Lima","genero":"SERTANEJO","src":"Gusttavo_Lima_Retrovisor.m4a"},
+  
+
   {"id":45,"artist":"Cdzin do Forró Boys","title":"Heitor Henrique israelerodolffo","genero":"SERTANEJO","src":"Heitor_Henrique_Cdzin_do_Forr_Boys.m4a"},
   {"id":46,"artist":"Henrique Juliano","title":"SEJA EX","genero":"SERTANEJO","src":"Henrique_e_Juliano_Seja-ex.m4a"},
   {"id":47,"artist":"A MAIOR SAUDADE - DVD Manifesto al","title":"Henrique e Juliano","genero":"SERTANEJO","src":"Henrique_e_Juliano-Manifesto.m4a"},
@@ -129,7 +128,7 @@
   {"id":103,"artist":"PH-Michel-Belo","title":"Eu Me Acostumei","genero":"SERTANEJO","src":"PH-Michel-Belo_Eu-Me-Acostumei.m4a"},
   {"id":104,"artist":"chi-xo","title":"Pagina-Virada","genero":"MPB","src":"chi-xo_Pagina-Virada.m4a"},
   {"id":105,"artist":"Ivis-e-Carraro","title":"Transas","genero":"MPB","src":"Ivis-e-Carraro_Transas.mp3"},
-  {"id":106,"artist":"Matheus-e-Kuan","title":"Quarta Cadeira","genero":"MPB","src":"Matheus-e-Kuan_Quarta_Cadeira.m4a"},
+
   {"id":107,"artist":"Panda","title":"Corpo-Nu","genero":"MPB","src":"Panda_Corpo-Nu.m4a"},
 
 
@@ -156,9 +155,9 @@
 {"id":123,"artist":"Diego Arnaldo","title":"Xote dos Milagres Xote da Alegria Rindo À Toa","genero":"SERTANEJO","src":"Diego-e-Arnaldo-pout-ourri.m4a"},
 {"id":124,"artist":"Gian-e-Geovane","title":"Sai dessa","genero":"SERTANEJO","src":"Gian-e-Geovane-Sai_dessa.m4a"},
 {"id":125,"artist":"Gusttavo-Lima","title":"Retrovisor","genero":"SERTANEJO","src":"Gusttavo-Lima-Retrovisor.mp3"},
-{"id":126,"artist":"Guilherme","title":"e-Benuto-Esconde-Esconde-Deu-Rolo","genero":"MPB","src":"Guilherme-e-Benuto-Esconde-Esconde-Deu-Rolo.mp3"},
-{"id":127,"artist":"Bruna","title":"Viola-Cowboy-Fora-da-Lei","genero":"MPB","src":"Bruna-Viola-Cowboy-Fora-da-Lei.mp3"},
-{"id":128,"artist":"Sertanejo","title":"A-me-usa","genero":"MPB","src":"Sertanejo-A-me-usa.mp3"},
-{"id":129,"artist":"Bruna","title":"Viola-por-enguanto","genero":"MPB","src":"Bruna-Viola-por-enguanto.mp3"}
+{"id":126,"artist":"Guilherme","title":"e-Benuto-Esconde-Esconde-Deu-Rolo","genero":"SERTANEJO","src":"Guilherme-e-Benuto-Esconde-Esconde-Deu-Rolo.mp3"},
+{"id":127,"artist":"Bruna","title":"Viola-Cowboy-Fora-da-Lei","genero":"SERTANEJO","src":"Bruna-Viola-Cowboy-Fora-da-Lei.mp3"},
+{"id":128,"artist":"Sertanejo","title":"A-me-usa","genero":"SERTANEJO","src":"Sertanejo-A-me-usa.mp3"},
+{"id":129,"artist":"Bruna","title":"Viola-por-enguanto","genero":"SERTANEJO","src":"Bruna-Viola-por-enguanto.mp3"}
 ]
 
