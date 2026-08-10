@@ -131,6 +131,19 @@
   {"id":123,"artist":"Diego Arnaldo","title":"Xote dos Milagres Xote da Alegria Rindo À Toa","genero":"SERTANEJO","src":"Diego-e-Arnaldo-pout-ourri.m4a"},
   {"id":124,"artist":"Gian-e-Geovane","title":"Sai dessa","genero":"SERTANEJO","src":"Gian-e-Geovane-Sai_dessa.m4a"},
 
-  {"id":127,"artist":"Bruna","title":"Viola-Cowboy-Fora-da-Lei","genero":"SERTANEJO","src":"Bruna-viola-Cowboy-Fora-da-Lei.mp3"},
-  {"id":128,"artist":"Maiara e Maraisa","title":"A-me-usa","genero":"SERTANEJO","src":"Me-usa-sertanjo.mp3"}
+  {"id":127,"artist":"Bruna Viola ","title":"Viola-Cowboy-Fora-da-Lei","genero":"SERTANEJO","src":"Bruna-viola-Cowboy-Fora-da-Lei.mp3"},
+  {"id":128,"artist":"Maiara e Maraisa","title":"A-me-usa","genero":"SERTANEJO","src":"Me-usa-sertanjo.mp3"},
+{"id":129,"artist":"MARC0S-E-BELUTTI","title":"Cheiro de Shampoo","genero":"SERTANEJO","src":"CheirodeShampoo_MARC0S-E-BELUTTI.mp3"},
+{"id":130,"artist":"MARCOE BELUTTI","title":"Deus Me Livre","genero":"SERTANEJO","src":"DeusMeLivre_MARCOEBELUTTI.mp3"},
+{"id":131,"artist":"MARCOSE BENUTTI","title":"entei Te Esquecer","genero":"SERTANEJO","src":"enteiTeEsquecer_MARCOSEBENUTTI.mp3"},
+{"id":132,"artist":"Mayck e Lyan","title":"Hoje No E Nosso Dia","genero":"SERTANEJO","src":"HojeNoENossoDia_MayckeLyan.mp3"},
+{"id":133,"artist":"RIO NEGRO E SOLI","title":"Chorando e Dan","genero":"SERTANEJO","src":"ChorandoeDan_RIONEGROESOLI.mp3"},
+{"id":134,"artist":"DESC","title":"Corpo e Alma","genero":"SERTANEJO","src":"CorpoeAlma_DESC.mp3"},
+{"id":135,"artist":"Gabriel Galdino","title":"Jogado na rua","genero":"SERTANEJO","src":"Jogadonarua_GabrielGaldino.mp3"},
+{"id":136,"artist":"Sert serie A","title":"Lagrima de chuvas","genero":"SERTANEJO","src":"Lagrimadechuvas_SertserieA.mp3"},
+{"id":137,"artist":"TARDE","title":"DEMAIS SSA","genero":"SERTANEJO","src":"DEMAISSSA_TARDE.mp3"},
+{"id":138,"artist":"PANDA","title":"Xote Dos Milagres","genero":"SERTANEJO","src":"XoteDosMilagres_PANDA.mp3"},
+{"id":139,"artist":"Costa","title":"Desatino","genero":"SERTANEJO","src":"Desatino_Costa.mp3"},
+{"id":140,"artist":"Gusttavo Lima","title":"DEZ Anos","genero":"SERTANEJO","src":"DEZAnos_GusttavoLima.mp3"},
+{"id":141,"artist":"Gusttavo Lima","title":"Sujeito","genero":"SERTANEJO","src":"Sujeito_GusttavoLima.mp3"}
 ]
