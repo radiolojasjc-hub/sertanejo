@@ -145,5 +145,17 @@
 {"id":138,"artist":"PANDA","title":"Xote Dos Milagres","genero":"SERTANEJO","src":"XoteDosMilagres_PANDA.mp3"},
 {"id":139,"artist":"Costa","title":"Desatino","genero":"SERTANEJO","src":"Desatino_Costa.mp3"},
 {"id":140,"artist":"Gusttavo Lima","title":"DEZ Anos","genero":"SERTANEJO","src":"DEZAnos_GusttavoLima.mp3"},
-{"id":141,"artist":"Gusttavo Lima","title":"Sujeito","genero":"SERTANEJO","src":"Sujeito_GusttavoLima.mp3"}
+{"id":141,"artist":"Gusttavo Lima","title":"Sujeito","genero":"SERTANEJO","src":"Sujeito_GusttavoLima.mp3"},
+ {"id":142,"artist":"Naiara Azevedo Ana Castela","title":"Palhaca","genero":"SERTANEJO","src":"Palhaca_NaiaraAzevedoAnaCastela.mp3"},
+{"id":143,"artist":"Cinco Anos de Grau Cleber Cauan e Nattan","title":"(Cinco Anos de Grau Cleber Cauan e Nattan)","genero":"SERTANEJO","src":"CincoAnosdeGrauCleberCauaneNattan_CincoAnosdeGrauCleberCauaneNattan.mp3"},
+{"id":144,"artist":"Diego","title":"e Victor Hugo Tubaroes","genero":"SERTANEJO","src":"eVictorHugoTubaroes_Diego.mp3"},
+{"id":145,"artist":"Diego e Victor Hugo","title":"Moca Pra Casarl","genero":"SERTANEJO","src":"MocaPraCasarl_DiegoeVictorHugo.mp3"},
+{"id":146,"artist":"Henrique e Juliano","title":"Ate Vc Voltar","genero":"SERTANEJO","src":"AteVcVoltar_HenriqueeJuliano.mp3"},
+{"id":147,"artist":"Lauana Prado","title":"pou pourri","genero":"SERTANEJO","src":"poupourri_LauanaPrado.mp3"},
+{"id":148,"artist":"Panda","title":"Escolta de Vagalumes","genero":"SERTANEJO","src":"EscoltadeVagalumes_Panda.mp3"},
+{"id":149,"artist":"Panda","title":"Eu te seguro","genero":"SERTANEJO","src":"Euteseguro_Panda.mp3"},
+{"id":150,"artist":"Ze Neto e Cristiano Ana Castela","title":"Foi Intenso Intenso","genero":"SERTANEJO","src":"FoiIntensoIntenso_ZeNetoeCristianoAnaCastela.mp3"},
+{"id":151,"artist":"Ze Neto e Cristiano","title":"Quase Todo Dia Vc e Deus","genero":"SERTANEJO","src":"QuaseTodoDiaVceDeus_ZeNetoeCristiano.mp3"},
+{"id":152,"artist":"Ze Vaq Natann","title":"Aproveita que eu t Brigado","genero":"SERTANEJO","src":"AproveitaqueeutBrigado_ZeVaqNatann.mp3"},
+{"id":153,"artist":"PEDRO NETTO E MATHEUS","title":"Efeitos Ao Vivo","genero":"SERTANEJO","src":"EfeitosAoVivo_PEDRONETTOEMATHEUS.mp3"} 
 ]
