@@ -143,5 +143,15 @@
   {"id":167,"artist":"Chitãozinho Xororó Zé Ramalho","title":"Sinônimo","genero":"SERTANEJO","src":"Sinonimo_Chitaozinho_Xororo_Ze_Ramalho.opus"},
   {"id":168,"artist":"Guilherme e Benuto","title":"Filho da Mãe","genero":"SERTANEJO","src":"Filho_da_Mae_Guilherme_e_Benuto.opus"},
   {"id":169,"artist":"Hugo e Guilherme","title":"Pot Pourri","genero":"SERTANEJO","src":"Pot_Pourri_Hugo_e_Guilherme.m4a"},
-  {"id":170,"artist":"Victor Leo","title":"Fada","genero":"SERTANEJO","src":"Fada_Victor_Leo.m4a"}
+  {"id":170,"artist":"Victor Leo","title":"Fada","genero":"SERTANEJO","src":"Fada_Victor_Leo.m4a"},
+  {"id":171,"artist":"Gusttavo Lima","title":"Bala Alojada","genero":"POP","src":"Bala_Alojada_Gusttavo_Lima.mp3"},
+{"id":172,"artist":"Murilo Huff","title":"Deixa Eu","genero":"POP","src":"Deixa_Eu_Murilo_Huff.mp3"},
+{"id":173,"artist":"Panda","title":"Eu te seguro Panda sem Moderação 2","genero":"POP","src":"Eu_te_seguro_Panda_sem_Moderacao_Panda.mp3"},
+{"id":174,"artist":"Simone Mendes","title":"SAUDADE PROIBIDA Cantando Sua História 2","genero":"POP","src":"SAUDADE_PROIBIDA_Cantando_Sua_Historia_Simone_Mendes.mp3"},
+{"id":175,"artist":"Zé Neto e Cristiano Ana Castela","title":"Foi Intenso Intenso","genero":"POP","src":"Foi_Intenso_Intenso_Ze_Neto_e_Cristiano_Ana_Castela.mp3"},
+{"id":176,"artist":"BORA UAI WICKED","title":"GAME FOI PENSANDO EM VOCÊ","genero":"POP","src":"GAME_FOI_PENSANDO_EM_VOCE_BORA_UAI_WICKED.mp3"},
+{"id":177,"artist":"Cláudio e Mateus","title":"TOLENADAS DE PAIXÃO","genero":"POP","src":"TOLENADAS_DE_PAIXAO_Claudio_e_Mateus.mp3"},
+{"id":178,"artist":"Clayton Romário","title":"Curvas Ao Vivo Em Brasília","genero":"POP","src":"Curvas_Ao_Vivo_Em_Brasilia_Clayton_Romario.mp3"},
+{"id":179,"artist":"Diego e Victor Hugo Nattanzinho","title":"Andar de Baixo","genero":"POP","src":"Andar_de_Baixo_Diego_e_Victor_Hugo_Nattanzinho.mp3"},
+{"id":180,"artist":"Felipe Rodrigo","title":"Gosta de Rua  QuestãoDeTempo","genero":"POP","src":"Gosta_de_Rua_QuestaoDeTempo_Felipe_Rodrigo.mp3"}
 ]
