@@ -1,4 +1,4 @@
-[
+9[
   {"id":1,"artist":"Lauana Prado","title":"Andorinha Machucada","genero":"SERTANEJO","src":"Andorinha_Machucada-launa.m4a"},
   {"id":3,"artist":"Diego & Victor Hugo","title":"Desbloqueado","genero":"SERTANEJO","src":"Diego-Victor Hugo-Desbloqueado.mp3"},
   {"id":4,"artist":"Eduardo Costa","title":"Aguenta Coração","genero":"SERTANEJO","src":"Eduardo-cora.mp3"},
@@ -138,5 +138,12 @@
   {"id":162,"artist":"Chitãozinho & Xororó e Almir Sater","title":"Tocando Em Frente","genero":"SERTANEJO","src":"TocandoEmFrentel_ChXeAlmirSater.mp3"},
   {"id":163,"artist":"Chitãozinho & Xororó e Matogrosso & Mathias","title":"Não Deixa o Rádio","genero":"SERTANEJO","src":"NDELSIGAORDIO_ChXeMatogrossoeMathias.mp3"},
   {"id":164,"artist":"Leo Chaves & Xand Avião","title":"Leo Chaves e Xand Avião","genero":"SERTANEJO","src":"LeoChaveseXandAv_LeoChaveseXandAv.mp3"},
-  {"id":165,"artist":"Trio Parada Dura, Cezar & Paulinho","title":"Capim Guiné","genero":"SERTANEJO","src":"CapimGuin_TrioParadaDuraeCezarePaulinho.mp3"}
+  {"id":165,"artist":"Trio Parada Dura, Cezar & Paulinho","title":"Capim Guiné","genero":"SERTANEJO","src":"CapimGuin_TrioParadaDuraeCezarePaulinho.mp3"},
+  
+{"id":166,"artist":"Bruno & Marrone","title":"Bruno  Marrone","genero":"Sertanejo","src":"-Bruno_Marrone_-.opus"},
+{"id":167,"artist":"Chitãozinho  Xororó Zé Ramalho","title":"Sinônimo","genero":"Sertanejo","src":"Sinonimo_Chitaozinho_Xororo_Ze_Ramalho.opus"},
+{"id":168,"artist":"Guilherme e Benuto","title":"Filho da Mãe","genero":"Sertanejo","src":"Filho_da_Mae_Guilherme_e_Benuto.opus"},
+{"id":169,"artist":"Hugo e Guilherme","title":"Pot Pourri","genero":"Sertanejo","src":"Pot_Pourri_Hugo_e_Guilherme.m4a"},
+{"id":170,"artist":"Victor  Leo","title":"Fada","genero":"Sertanejo","src":"Fada_Victor_Leo.m4a"}
 ]
+
