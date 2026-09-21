@@ -1,19 +1,15 @@
 [
-
-{"id":1,"artist":"Raphael Alencar","title":"Brigas","genero":"POP","src":"Brigas_Raphael_Alencar.mp3"},
-{"id":2,"artist":"DAN VENTURA","title":"CADA VOLTA É UM RECOMEÇO VA COM DEUS TEMPORAL","genero":"POP","src":"CADA_VOLTA_E_UM_RECOMECO_VA_COM_DEUS_TEMPORAL_DAN_VENTURA.mp3"},
-{"id":3,"artist":"Seresta Boteco Brega","title":"Porque Brigamos","genero":"POP","src":"Porque_Brigamos_Seresta_Boteco_Brega.mp3"}.
-{"id":4,"artist":"Klessinha","title":"Fim de Noite","genero":"POP","src":"FimdeNoiteKlessinha.mp3"},
- {"id":5,"artist":"Raphael Alencar O Príncipe","title":"A Raposa e as Uvas   DVD Seresta do Príncipe","genero":"POP","src":"A_Raposa_e_as_Uvas_DVD_Seresta_do_Principe_Raphael_Alencar_O_Principe.mp3"},
-{"id":6,"artist":"Raphael Alencar O Príncipe","title":"Retrovisor   DVD Seresta do Príncipe","genero":"POP","src":"Retrovisor_DVD_Seresta_do_Principe_Raphael_Alencar_O_Principe.mp3"},
-{"id":7,"artist":"Raphael Alencar","title":"O Príncipe Lady Laura DVD Seresta do Príncipe","genero":"POP","src":"O_Principe_Lady_Laura_DVD_Seresta_do_Principe_Raphael_Alencar.mp3"},
-{"id":8,"artist":"Raphael Alencar O Príncipe","title":"Mar de Rosas DVD Seresta do Príncipe","genero":"POP","src":"Mar_de_Rosas_DVD_Seresta_do_Principe_Raphael_Alencar_O_Principe.mp3"},
-{"id":9,"artist":"PORQUE BRIGAMOS ft Mara Magalhães","title":"SERESTADA DO DAN VENTURA 2.0   SE DEUS ME OUVISSE","genero":"POP","src":"SERESTADA_DO_DAN_VENTURA_._SE_DEUS_ME_OUVISSE_PORQUE_BRIGAMOS_ft_Mara_Magalhaes.mp3"},
-{"id":10,"artist":"DAN VENTURA","title":"2.0 AMANHÃ TALVEZ ESTOU APAIXONADO","genero":"POP","src":"._AMANHA_TALVEZ_ESTOU_APAIXONADO_DAN_VENTURA.mp3"},
-{"id":11,"artist":"DAN VENTURA","title":"2.0 É TARDE DEMAIS SOZINHO","genero":"POP","src":"._E_TARDE_DEMAIS_SOZINHO_DAN_VENTURA.mp3"},
-{"id":12,"artist":"DE JANEIRO A JANEIRO TIMIDEZ ESTRELINHA DO CÉU Dan0 Dan Ventura","title":"DE JANEIRO A JANEIRO TIMIDEZ ESTRELINHA DO CÉU Dan0 Dan Ventura","genero":"POP","src":"DE_JANEIRO_A_JANEIRO_TIMIDEZ_ESTRELINHA_DO_CEU_Dan_Dan_Ventura-.mp3"},
-{"id":13,"artist":"Raphael Alencar O Príncipe","title":"A Desconhecida   DVD Seresta do Príncipe","genero":"POP","src":"A_Desconhecida_DVD_Seresta_do_Principe_Raphael_Alencar_O_Principe.mp3"} 
-
-
+  {"id":1,"artist":"Raphael Alencar","title":"Brigas","genero":"POP","src":"Brigas_Raphael_Alencar.mp3"},
+  {"id":2,"artist":"DAN VENTURA","title":"CADA VOLTA É UM RECOMEÇO VA COM DEUS TEMPORAL","genero":"POP","src":"CADA_VOLTA_E_UM_RECOMECO_VA_COM_DEUS_TEMPORAL_DAN_VENTURA.mp3"},
+  {"id":3,"artist":"Seresta Boteco Brega","title":"Porque Brigamos","genero":"POP","src":"Porque_Brigamos_Seresta_Boteco_Brega.mp3"},
+  {"id":4,"artist":"Klessinha","title":"Fim de Noite","genero":"POP","src":"Fim_de_Noite_Klessinha.mp3"},
+  {"id":5,"artist":"Raphael Alencar O Príncipe","title":"A Raposa e as Uvas - DVD Seresta do Príncipe","genero":"POP","src":"A_Raposa_e_as_Uvas_DVD_Seresta_do_Principe_Raphael_Alencar_O_Principe.mp3"},
+  {"id":6,"artist":"Raphael Alencar O Príncipe","title":"Retrovisor - DVD Seresta do Príncipe","genero":"POP","src":"Retrovisor_DVD_Seresta_do_Principe_Raphael_Alencar_O_Principe.mp3"},
+  {"id":7,"artist":"Raphael Alencar","title":"O Príncipe Lady Laura - DVD Seresta do Príncipe","genero":"POP","src":"O_Principe_Lady_Laura_DVD_Seresta_do_Principe_Raphael_Alencar.mp3"},
+  {"id":8,"artist":"Raphael Alencar O Príncipe","title":"Mar de Rosas - DVD Seresta do Príncipe","genero":"POP","src":"Mar_de_Rosas_DVD_Seresta_do_Principe_Raphael_Alencar_O_Principe.mp3"},
+  {"id":9,"artist":"PORQUE BRIGAMOS ft Mara Magalhães","title":"SERESTADA DO DAN VENTURA 2.0 - SE DEUS ME OUVISSE","genero":"POP","src":"SERESTADA_DO_DAN_VENTURA_SE_DEUS_ME_OUVISSE_PORQUE_BRIGAMOS_ft_Mara_Magalhaes.mp3"},
+  {"id":10,"artist":"DAN VENTURA","title":"2.0 AMANHÃ TALVEZ ESTOU APAIXONADO","genero":"POP","src":"AMANHA_TALVEZ_ESTOU_APAIXONADO_DAN_VENTURA.mp3"},
+  {"id":11,"artist":"DAN VENTURA","title":"2.0 É TARDE DEMAIS SOZINHO","genero":"POP","src":"E_TARDE_DEMAIS_SOZINHO_DAN_VENTURA.mp3"},
+  {"id":12,"artist":"DE JANEIRO A JANEIRO TIMIDEZ ESTRELINHA DO CÉU Dan0 Dan Ventura","title":"DE JANEIRO A JANEIRO TIMIDEZ ESTRELINHA DO CÉU Dan0 Dan Ventura","genero":"POP","src":"DE_JANEIRO_A_JANEIRO_TIMIDEZ_ESTRELINHA_DO_CEU_Dan_Dan_Ventura.mp3"},
+  {"id":13,"artist":"Raphael Alencar O Príncipe","title":"A Desconhecida - DVD Seresta do Príncipe","genero":"POP","src":"A_Desconhecida_DVD_Seresta_do_Principe_Raphael_Alencar_O_Principe.mp3"}
 ]
-
